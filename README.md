@@ -26,3 +26,4 @@ Once you've cloned the repository and pip installed pygame, you should be able t
 
 `python3 dfotr_game_main.py`
 
+We look forward to work on version 2
